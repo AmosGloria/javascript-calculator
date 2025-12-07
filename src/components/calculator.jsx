@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Display from "./Display";
+import Display from "./display";
 import ButtonsPanel from "./buttonsPannel";
 
 export default function Calculator() {
